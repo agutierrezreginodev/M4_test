@@ -1,0 +1,16 @@
+id,name,id_region,id_crop,id_soil,id_sensor
+1,Finca 1,1,1,1,SENS001
+2,Finca 2,2,4,2,SENS002
+3,Finca 3,1,5,3,SENS003
+4,Finca 4,3,3,4,SENS004
+5,Finca 5,4,7,5,SENS005
+6,Finca 1,2,8,6,SENS006
+7,Finca 2,3,9,7,SENS007
+8,Finca 3,2,7,8,SENS008
+9,Finca 4,4,12,9,SENS009
+10,Finca 5,2,2,10,SENS010
+11,Finca 1,1,12,11,SENS011
+12,Finca 2,5,3,12,SENS012
+13,Finca 3,4,10,13,SENS013
+14,Finca 4,4,5,14,SENS014
+15,Finca 5,5,6,15,SENS015

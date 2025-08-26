@@ -1,0 +1,16 @@
+id,type,id_irrigation_system,id_fertilizer
+1,Sandy,1,1
+2,Sandy,1,2
+3,Clay,3,4
+4,Clay,2,3
+5,Loam,1,4
+6,Silt,2,4
+7,Loam,2,2
+8,Peaty,1,2
+9,Loam,1,2
+10,Clay,3,3
+11,Loam,3,4
+12,Clay,3,3
+13,Silt,3,1
+14,Peaty,2,1
+15,Silt,1,3
